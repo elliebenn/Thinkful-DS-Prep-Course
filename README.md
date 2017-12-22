@@ -2,6 +2,6 @@
 
 Thinkful Data Science Bootcamp
 
-Prep course 
+-   Prep course 
 
-Flexible Bootcamp course
+-   Flexible Bootcamp course
